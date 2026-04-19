@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="CadastralAssignment2 kairu ruth">
+  <name>CadastralAssignment2 kairu ruth</name>
+  <snippet></snippet>
+  <description><![CDATA[]]></description>
+  <Folder id="FeatureLayer0">
+    <name>CadastralAssignment2 kairu ruth</name>
+    <snippet></snippet>
+    <description><![CDATA[]]></description>
+    <Placemark id="ID_00000">
+      <name>2073.84418803716</name>
+      <snippet></snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+<head>
+<META http-equiv="Content-Type" content="text/html">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+</head>
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+<td>2073.84418803716</td>
+</tr>
+<tr>
+<td>
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+<tr>
+<td>SHAPE</td>
+<td>Polygon</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</body><script type="text/javascript">
+				function changeImage(attElement, nameElement) {
+				document.getElementById('imageAttachment').src = attElement;
+				document.getElementById('imageName').innerHTML = nameElement;}
+			</script></html>
+]]></description>
+      <styleUrl>#PolyStyle00</styleUrl>
+      <MultiGeometry>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 36.81486062493047,-1.27935704377593,0 36.81490662344901,-1.279552705751724,0 36.81494858632063,-1.279731200598682,0 36.81501609085382,-1.279796990368546,0 36.81544159519907,-1.279944684515091,0 36.81594741695378,-1.280983225424782,0 36.81606223796495,-1.281019589651723,0 36.81800202944129,-1.280060210248812,0 36.81804265728442,-1.279951446906368,0 36.81782560967224,-1.279516966183488,0 36.81657409911146,-1.278914489344322,0 36.81628922109238,-1.278747790500775,0 36.81619757484214,-1.278935415995647,0 36.81627844636559,-1.279006317039302,0 36.81621011393728,-1.279304353471145,0 36.81608425750686,-1.279376950604518,0 36.81566637296317,-1.279273598574394,0 36.81523407786904,-1.279167331226831,0 36.815274316458,-1.27930517602888,0 36.81486062493047,-1.27935704377593,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 36.8141863010587,-1.27837964880417,0 36.81432922417547,-1.279565330315884,0 36.81450207575173,-1.280056752004731,0 36.81459435470463,-1.280013196486323,0 36.81478445295783,-1.279918662376994,0 36.81482853178796,-1.279811063096099,0 36.81475705761016,-1.279591841032477,0 36.81470354606116,-1.279225536672532,0 36.81474436659025,-1.278890113791512,0 36.81486860240774,-1.2784459644543,0 36.81449036570084,-1.27832777738733,0 36.8141863010587,-1.27837964880417,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+        <Polygon>
+          <extrude>0</extrude><altitudeMode>clampToGround</altitudeMode>
+          <outerBoundaryIs><LinearRing><coordinates> 36.81667448271415,-1.278714971948859,0 36.81786426207244,-1.279355265314816,0 36.81793246425131,-1.279323881166035,0 36.81796656264012,-1.279391619560422,0 36.818496728836,-1.278274541302592,0 36.81722937020007,-1.277656938720108,0 36.81695175981888,-1.278190903261855,0 36.81703935100091,-1.278236470852405,0 36.81697005412821,-1.278372886705378,0 36.81688061953401,-1.278325461480351,0 36.81667448271415,-1.278714971948859,0</coordinates></LinearRing></outerBoundaryIs>
+        </Polygon>
+      </MultiGeometry>
+    </Placemark>
+  </Folder>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0.000000</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff6e6e6e</color>
+      <width>0.700000</width>
+    </LineStyle>
+    <PolyStyle>
+      <color>fffcd7fb</color>
+      <outline>1</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>
